@@ -1,111 +1,67 @@
-— “5000 Companies Income Analysis (Kaggle Dataset)”.
-Hinglish tone light rakha hai but README professional hai. 😎📊
+📊 Income Analysis of 5,000 Companies
 
+Excel-Based Financial Analysis
 
----
+📌 Overview
 
-📈 Income Analysis of 5000 Companies (Excel Project)
-
-📌 Project Overview
-
-Ye project me maine Kaggle ke 5000 companies dataset ka detailed income analysis Excel me perform kiya.
-Goal tha company performance, revenue trends, profit distribution, aur industry-wise insights find karna.
+A structured financial analysis of 5,000 global companies sourced from Kaggle. The project examines revenue, net income, sector performance, and comparative financial trends using Microsoft Excel.
 
 🗂️ Dataset
 
 Source: Kaggle
 
-Entries: 5000 Companies
+Records: 5,000 companies
 
-Key Columns:
-
-Company Name
-
-Industry / Sector
-
-Revenue
-
-Profit / Net Income
-
-Employees
-
-Country
+Fields: Company, Industry, Revenue, Net Income, Employees, Country
 
 
+🛠️ Methods
 
-🛠️ Tools & Techniques Used
+Data cleaning & normalization
 
-Microsoft Excel
+Pivot tables & statistical summaries
 
-Data Cleaning (Remove duplicates, missing values handling)
+Chart-based visualization
 
-Pivot Tables
-
-Conditional Formatting
-
-Charts (Bar, Line, Pie)
-
-Filters & Sorting
-
-Formulas:
-
-VLOOKUP
-
-SUMIF / AVERAGEIF
-
-IF
-
-PERCENTILE
-
-RANK
+Key Excel functions: XLOOKUP, SUMIF, AVERAGEIF, IF, RANK, PERCENTILE
 
 
+📈 Key Insights
 
-📊 Key Insights
+Top industries by revenue and profit
 
-Top revenue-generating industries
+Company profitability rankings
 
-Highest profitability companies
+Revenue–profit correlation
 
-Revenue vs Profit correlation
+Country-level financial distribution
 
-Country-wise performance comparison
-
-Outlier detection for extremely high/low income
-
-
-🧾 Output Files
-
-Company_Income_Analysis.xlsx
-
-Charts_and_Insights.pdf (optional)
+Outlier detection
 
 
-🚀 How to Use
+📁 Files
 
-1. Excel file open karo
+Analysis.xlsx
 
-
-2. “Dashboard” sheet se summary dekho
-
-
-3. Pivot Table ko customize karke apna analysis banao
+Dashboard.xlsx (if included)
 
 
+🚀 Usage
 
-📚 Future Improvements
+Open the Excel files and explore dashboards, pivots, and filters to view insights or extend the analysis.
 
-Python + Pandas integration
+🔧 Future Enhancements
 
-Automated dashboards
+Python automation
 
-Power BI version
+Power BI / Tableau dashboards
+
+Interactive web visualization
 
 
-🤝 Contributing
+👤 Author
 
-Pull requests welcome! Suggestions bhi open hain.
-Md farhan khan 608/25
+Farhan Khan
 Md saquib ansari 627/25
 Tabish raza 640/25
 Md Afaque alam 630/25
