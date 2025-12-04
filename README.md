@@ -61,8 +61,8 @@ Interactive web visualization
 
 👤 Author
 
-Farhan Khan
-Md saquib ansari 627/25
-Tabish raza 640/25
-Md Afaque alam 630/25
+Farhan Khan [608/25] 
+Md saquib ansari [627/25]
+Tabish raza [640/25]
+Md Afaque alam [630/25]
 ---
