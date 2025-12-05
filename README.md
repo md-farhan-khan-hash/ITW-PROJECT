@@ -45,14 +45,14 @@ ITW PROJECT 1 {completed}.xlsx
 
 iTW PROJECT 1 [completed].pptx
 
+ITW_project.ipynb
+
 
 🚀 Usage
 
 Open the Excel files and explore dashboards, pivots, and filters to view insights or extend the analysis.
 
 🔧 Future Enhancements
-
-Python automation
 
 Power BI / Tableau dashboards
 
