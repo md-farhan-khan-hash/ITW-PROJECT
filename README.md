@@ -1,6 +1,6 @@
 📊 Income Analysis of 5,000 Companies
 
-Excel-Based Financial Analysis
+Excel/python Based Financial Analysis
 
 📌 Overview
 
@@ -41,9 +41,9 @@ Outlier detection
 
 📁 Files
 
-Analysis.xlsx
+ITW PROJECT 1 {completed}.xlsx
 
-Dashboard.xlsx (if included)
+iTW PROJECT 1 [completed].pptx
 
 
 🚀 Usage
