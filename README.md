@@ -4,7 +4,7 @@ Excel/python Based Financial Analysis
 
 📌 Overview
 
-A structured financial analysis of 5,000 global companies sourced from Kaggle. The project examines revenue, net income, sector performance, and comparative financial trends using Microsoft Excel.
+A structured financial analysis of 5,000 global companies sourced from Kaggle. The project examines revenue, net income, sector performance, and comparative financial trends using Microsoft Excel and also python
 
 🗂️ Dataset
 
